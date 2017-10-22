@@ -1,0 +1,6 @@
+How to run jar file:
+
+java -jar ClearNLPwithCoreNLPTokenizer.jar ./testFolder1 ./testFolder2
+
+here testfolder1 is inputfolder you want to parse
+here testfolder2 is outputfolder you want to parse
