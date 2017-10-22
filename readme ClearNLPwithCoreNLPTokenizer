@@ -1,6 +1,3 @@
-How to run jar file:
+This project aim to use custom tokeniser in clearNLP to allow the generated data to match for co-referencing with other libraries.
 
-java -jar ClearNLPwithCoreNLPTokenizer.jar ./testFolder1 ./testFolder2
-
-here testfolder1 is inputfolder you want to parse
-here testfolder2 is outputfolder you want to parse
+Note: Please download  clearnlp-general-en-dep-1.2.jar and add it in lib to run the project.
